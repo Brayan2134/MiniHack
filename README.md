@@ -1,0 +1,2 @@
+# MiniHack
+ CPP MiniHack submission
