@@ -2,7 +2,7 @@ import openai
 import tkinter as tk
 
 # Set your API key
-api_key = "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"
+api_key = "YOUR_API_KEY_GOES_HERE"
 openai.api_key = api_key
 
 # Initialize the conversation with a system message
